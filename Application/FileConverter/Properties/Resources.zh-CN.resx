@@ -127,7 +127,7 @@
     <value>转换成功时的操作</value>
   </data>
   <data name="AddNewPreset" xml:space="preserve">
-    <value>新的预设</value>
+    <value>新建预设</value>
   </data>
   <data name="Application" xml:space="preserve">
     <value>应用</value>
@@ -154,7 +154,7 @@
     <value>要转换的文件</value>
   </data>
   <data name="ConvertedFrom" xml:space="preserve">
-    <value>转换自</value>
+    <value>转换源</value>
   </data>
   <data name="Diagnostics" xml:space="preserve">
     <value>日志</value>
@@ -163,13 +163,13 @@
     <value>日志</value>
   </data>
   <data name="DocumentationButtonDescription" xml:space="preserve">
-    <value>打开文件</value>
+    <value>访问联机文档</value>
   </data>
   <data name="DonateButtonTitle" xml:space="preserve">
     <value>捐赠</value>
   </data>
   <data name="DonateDescription" xml:space="preserve">
-    <value>如果你喜欢，别忘了鼓励我的工作^_^</value>
+    <value>如果喜欢本程序，别忘捐赠支持开发^_^</value>
   </data>
   <data name="DownloadAndInstallButtonDescription" xml:space="preserve">
     <value>此更新将在后台下载，并在 File Converter 退出后立即开始安装。</value>
@@ -214,7 +214,7 @@
     <value>删除</value>
   </data>
   <data name="InputPostConversionActionMoveInArchiveFolderName" xml:space="preserve">
-    <value>移动到压缩包中</value>
+    <value>移入转换归档文件夹</value>
   </data>
   <data name="InputPostConversionActionNoneName" xml:space="preserve">
     <value>无</value>
@@ -229,13 +229,13 @@
     <value>报告问题</value>
   </data>
   <data name="MoveDownSelectedPreset" xml:space="preserve">
-    <value>将所选项下移</value>
+    <value>下移选定的预设</value>
   </data>
   <data name="MoveUpSelectedPreset" xml:space="preserve">
-    <value>将所选项上移</value>
+    <value>上移选定的预设</value>
   </data>
   <data name="Mp3CbrDescription" xml:space="preserve">
-    <value>恒定比特率编码</value>
+    <value>固定比特率编码</value>
   </data>
   <data name="Mp3VbrDescription" xml:space="preserve">
     <value>可变比特率编码</value>
@@ -247,7 +247,7 @@
     <value>逆时针旋转 90°</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>Ok</value>
+    <value>确定</value>
   </data>
   <data name="OneEightyDegreesRotationTitle" xml:space="preserve">
     <value>180°</value>
@@ -437,10 +437,10 @@
     <value>###正在下载更新日志……</value>
   </data>
   <data name="ConversionArchives" xml:space="preserve">
-    <value>转换压缩包</value>
+    <value>转换归档</value>
   </data>
   <data name="ErrorCanceled" xml:space="preserve">
-    <value>取消。</value>
+    <value>已取消。</value>
   </data>
   <data name="ErrorCantFindFFMPEG" xml:space="preserve">
     <value>找不到 ffmpeg 可执行文件，您应该尝试重新安装应用程序。</value>
@@ -482,10 +482,10 @@
     <value>不支持的输出格式'{0}'。</value>
   </data>
   <data name="ChannelCountTitle" xml:space="preserve">
-    <value>通道计数：</value>
+    <value>声道数量：</value>
   </data>
   <data name="ChannelCountTooltip" xml:space="preserve">
-    <value>修改输入文件的通道数量。</value>
+    <value>修改输入文件的声道数量。</value>
   </data>
   <data name="MonoOption" xml:space="preserve">
     <value>单声道</value>
@@ -497,16 +497,16 @@
     <value>立体声</value>
   </data>
   <data name="LicenceHeader1" xml:space="preserve">
-    <value>**该软件免费**.</value>
+    <value>**本程序是免费软件**.</value>
   </data>
   <data name="LicenceHeader2" xml:space="preserve">
-    <value>您可以根据GNU通用公共许可证的条款重新发布和（或）修改它。</value>
+    <value>您可以根据 GNU General Public License 的条款重新发布和/或修改本程序。</value>
   </data>
   <data name="LicenceHeader3" xml:space="preserve">
-    <value>本程序的发布是希望它有用，但不提供任何担保。有关更多详细信息，请参阅GNU通用公共许可证（可在安装文件夹中找到：License.md）。</value>
+    <value>发布本程序是希望其有用,但不作任何保证.有关更多详细信息,请参阅 GNU General Public License (可在安装文件夹中找到: `LICENSE.md`)。</value>
   </data>
   <data name="ApplicationIsTerminating" xml:space="preserve">
-    <value>应用程序正在关闭。The application is terminating.</value>
+    <value>应用程序正在关闭。</value>
   </data>
   <data name="ApplicationWillTerminateInMultipleSeconds" xml:space="preserve">
     <value>应用程序将在 {0} 秒后自动关闭。</value>
@@ -515,7 +515,7 @@
     <value>应用程序将在 1 秒内自动关闭。</value>
   </data>
   <data name="StringMiscName" xml:space="preserve">
-    <value>杂项</value>
+    <value>其他</value>
   </data>
   <data name="ErrorCantFindOutputFiles" xml:space="preserve">
     <value>无法找到输出文件。</value>
@@ -542,13 +542,13 @@
     <value>要转换 Word 文档，必须安装 Microsoft Word。</value>
   </data>
   <data name="WebsiteButtonDescription" xml:space="preserve">
-    <value>打开 File Converter 网址</value>
+    <value>访问 File Converter 官网</value>
   </data>
   <data name="ErrorDuringJobInitialization" xml:space="preserve">
     <value>转换任务初始化时出错。</value>
   </data>
   <data name="CreateANewFolder" xml:space="preserve">
-    <value>新文件夹</value>
+    <value>新建文件夹</value>
   </data>
   <data name="DefaultFolderName" xml:space="preserve">
     <value>新文件夹</value>
