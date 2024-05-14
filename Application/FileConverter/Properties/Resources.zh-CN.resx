@@ -127,7 +127,7 @@
     <value>转换成功时的操作</value>
   </data>
   <data name="AddNewPreset" xml:space="preserve">
-    <value>新的预设</value>
+    <value>新建预设</value>
   </data>
   <data name="Application" xml:space="preserve">
     <value>应用</value>
@@ -214,7 +214,7 @@
     <value>删除</value>
   </data>
   <data name="InputPostConversionActionMoveInArchiveFolderName" xml:space="preserve">
-    <value>移动到压缩包中</value>
+    <value>移入归档文件夹</value>
   </data>
   <data name="InputPostConversionActionNoneName" xml:space="preserve">
     <value>无</value>
@@ -437,7 +437,7 @@
     <value>###正在下载更新日志……</value>
   </data>
   <data name="ConversionArchives" xml:space="preserve">
-    <value>转换压缩包</value>
+    <value归档文件夹</value>
   </data>
   <data name="ErrorCanceled" xml:space="preserve">
     <value>取消。</value>
